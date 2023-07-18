@@ -18,3 +18,4 @@ http.createServer(function (req, res) {
 
 // console will print the message
 console.log('Server running at http://localhost:3000/');
+});
